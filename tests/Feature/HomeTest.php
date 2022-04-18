@@ -134,7 +134,6 @@ it('testando igualdade com contadores em um array', function () {
 });
 
 
-
 it('testando elemento do conteudo', function () {
 
     $conteudo = 'Testando conteudo dentro de uma string';
